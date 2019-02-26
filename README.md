@@ -1,2 +1,2 @@
 # NRF528xx
-PDF:https://send.firefox.com/download/33190182a8/#N7WH9PyKLEFhRKagQgSM7A
+PDF:https://send.firefox.com/download/c69c4386a4/#Wusis-mTEXOR6KpCMAOCgw
